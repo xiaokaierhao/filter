@@ -1,0 +1,24 @@
+img{
+	width: 30%;
+}
+.item1{
+	-webkit-filter: blur(3px);
+}
+.item2{
+	-webkit-filter: brightness(1.5);
+}
+.item3{
+	-webkit-filter: contrast(2);
+}
+.item4{
+	-webkit-filter: grayscale(1);
+}
+.item5{
+	-webkit-filter: hue-rotate(45deg);
+}
+.item6{
+	-webkit-filter: saturate(2);
+}
+.item7{
+	-webkit-filter: invert(2);
+}
